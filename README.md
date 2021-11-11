@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![bitruss](https://i.imgur.com/Pg7PB2y.gif)
+
 <!--
 **bitruss/bitruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
