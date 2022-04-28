@@ -1,7 +1,16 @@
 ### Hi there 👋
+
 ![bitruss](https://i.imgur.com/uTfJxwa.gif)
 ![bitruss](https://i.imgur.com/Pg7PB2y.gif)
 ![bitruss](https://i.imgur.com/uTfJxwa.gif)
+
+---
+
+📫 Email: [bitruss@protonmail.com](bitruss@protonmail.com)
+
+💬 Twitter: [@bitruss_](https://twitter.com/bitruss_)
+
+🔭 Blog: [https://bitruss.github.io/](https://bitruss.github.io/)
 
 <!--
 **bitruss/bitruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
