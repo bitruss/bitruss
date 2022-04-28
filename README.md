@@ -10,7 +10,7 @@
 
 💬 Twitter: [@bitruss_](https://twitter.com/bitruss_)
 
-🔭 Blog: [https://bitruss.github.io/](https://bitruss.github.io/)
+🔭 Blog: [bitruss.github.io](https://bitruss.github.io/)
 
 <!--
 **bitruss/bitruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
