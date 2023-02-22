@@ -10,6 +10,10 @@
 
 🥷 Blog: [bitruss.github.io](https://bitruss.github.io/)
 
+⚡️ Lightning: bitruss.btc
+
+![bitruss](https://i.giphy.com/media/l4EpjuaFkL8Z8CScg/200w.webp)
+
 <!--
 **bitruss/bitruss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
