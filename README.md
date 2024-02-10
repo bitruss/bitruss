@@ -4,7 +4,7 @@
 
 ---
 
-🙉 Email: [bitruss@protonmail.com](bitruss@protonmail.com) & [russellwako@gmail.com](russellwako@gmail.com)
+🙉 Email: [bitruss@protonmail.com](bitruss@protonmail.com)
 
 🤪 Twitter: [@bitruss_](https://twitter.com/bitruss_)
 
