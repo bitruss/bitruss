@@ -8,10 +8,6 @@
 
 🤪 Twitter: [@bitruss_](https://twitter.com/bitruss_)
 
-🥷 Blog: [bitruss.github.io](https://bitruss.github.io/)
-
-⚡️ Lightning ₿: bitruss.btc
-
 ![bitruss](https://i.giphy.com/media/26Ff9VdCMLC5zlMT6/200w.webp)![bitruss](https://i.giphy.com/media/26Ffju4YKPQ1EzZhC/200w.webp)![bitruss](https://i.giphy.com/media/26Ff8WPsvjggMlO1y/200w.webp)![bitruss](https://i.giphy.com/media/l4EpjuaFkL8Z8CScg/200w.webp)![bitruss](https://i.giphy.com/media/l4EoV3LR2MVoAiNSU/200w.webp)![bitruss](https://i.giphy.com/media/26Ff3YZlcPt3GFPHi/200w.webp)![bitruss](https://i.giphy.com/media/l4EoZxPFu7fUpoafC/200w.webp)![bitruss](https://i.giphy.com/media/l4EoS7rhcfA3IOw4U/200w.webp)
 
 <!--
